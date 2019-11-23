@@ -1,1 +1,34 @@
+*{
+  margin:auto;
+  font-family: 'Merriweather', serif;
+  box-sizing: border-box;
+  text-align: center;
+}
 
+/* Styling for input/textbox */
+
+
+#value{
+  text-align: left;
+  margin-top:2em;
+}
+
+/* Styling for p tags for address book heading letters */
+
+ul p{
+  font-size: 2em;
+}
+
+
+/* Styling for names in the list. */
+
+
+ul{
+  list-style-type: none;
+}
+
+/* Styling for hr's */
+
+hr.a-hr{
+  border:2px solid gray;
+}
